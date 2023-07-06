@@ -16,6 +16,7 @@ lerna-debug.log*
 
 # Sqlite Database File
 db.sqlite
+test.sqlite
 
 # Tests
 /coverage
